@@ -1,6 +1,9 @@
 # DDoS-F4
 Uma Script DDoS Via termux
 
+Essa script é apenas para fins educacionais
+use consiente
+(Use Vpn antes de iniciar o attack)
 //////////////////////////
 #Instalaçao
 
@@ -14,3 +17,5 @@ ls
 chmod +x *
 //////////////////////////
 python2 ddosf4.py
+
+Agora É so Colocar O IP e a Porta !!
